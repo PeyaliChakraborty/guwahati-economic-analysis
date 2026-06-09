@@ -17,6 +17,10 @@ This notebook looks at cost of living and employment trends in Guwahati from 202
 - pandas
 - matplotlib
 
+## Data
+
+The dataset is manually constructed based on approximate real-world estimates for Guwahati, intended for exploratory analysis and visualisation practice.
+
 ## How to run
 
 ```bash
